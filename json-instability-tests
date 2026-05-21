@@ -2,3 +2,14 @@
 schema崩れ
 response variability
 parsing issues
+# JSON Stability Test
+
+## Observation
+JSON output changed structure
+between responses.
+
+## Impact
+Workflow parsing may fail.
+
+## Severity
+Medium
